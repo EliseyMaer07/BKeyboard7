@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
     private ImageFilterButton button1;
     private final int[] images = {R.drawable.car1, R.drawable.car2, R.drawable.car3, R.drawable.car4};
-    private int carNum = 0;
+    private int carNum = 0; //номер картинки
     private int g = 1;
 
     private EditText edit;

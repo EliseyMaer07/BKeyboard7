@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Бесконтактная клавиатура</string>
+    <string name="title_item_name">Найденные устройства:</string>
+    <string name="discovering">Поиск…</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="ficha">Введите фразу</string>
+    <string name="nichego">Выберите датчик для настройки</string>
+</resources>
